@@ -1,39 +1,23 @@
-# Application Web Design
+# Web Application Design
 
+## Student Information
+- **Name:** Francisco Javier Millán Bañuelos  
+- **Registration Number:** 03074337  
+- **Degree:** Software Engineering  
+- **Semester:** 6th  
 
-
-Student Data
-
-Name: Francisco Javier Millan Bañuelos 
-
-Registration Number: 03074337
-
-Degree: Ingeniería en Desarrollo de Software
-
-Semester: 6.º
-
-
-Subject Data
-
-Subject: Diseño de Aplicaciones Web
-
-Professor: Salvador 
-
-
+## Course Information
+- **Subject:** Web Application Design  
+- **Professor:** Salvador  
 
 ---
 
+## What is Markdown?
 
+Markdown is a lightweight markup language used to format plain text.  
 
-What is Markdown?
+It is widely used in documentation and `README` files because it allows you to add headings, lists, links, images, as well as bold or italic text.  
 
-
-
-Markdown es un lenguaje de marcado ligero que sirve para dar formato a texto plano.  
-
-Se usa mucho en documentación y en archivos `README` porque permite agregar títulos, listas, enlaces, imágenes y texto en negritas o cursivas.  
-
-También puede convertirse fácilmente a HTML u otros formatos.
-
+Markdown can also be easily converted into HTML or other formats.  
 
 
